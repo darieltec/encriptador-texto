@@ -45,3 +45,5 @@ Si deseas desencriptar el texto, ingresa el texto encriptado en el área de text
 Puedes copiar el texto encriptado o desencriptado haciendo clic en el botón "Copiar".
 Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor crea un fork del repositorio y envía un pull request con tus cambios.
+
+![Interfaz en ejecución del Encriptador de Texto]([https://github.com/darieltec/encriptador-texto/blob/main/imagen-encriptador-dariel-inicio.png](https://github.com/darieltec/encriptador-texto/blob/main/imagen-encriptador-dariel-ejecutando.png)
