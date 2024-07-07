@@ -46,4 +46,4 @@ Puedes copiar el texto encriptado o desencriptado haciendo clic en el botón "Co
 Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor crea un fork del repositorio y envía un pull request con tus cambios.
 
-![Interfaz en ejecución del Encriptador de Texto]([https://github.com/darieltec/encriptador-texto/blob/main/imagen-encriptador-dariel-inicio.png](https://github.com/darieltec/encriptador-texto/blob/main/imagen-encriptador-dariel-ejecutando.png)
+![Interfaz en ejecución del Encriptador de Texto](https://github.com/darieltec/encriptador-texto/blob/main/imagen-encriptador-dariel-ejecutando.png)
